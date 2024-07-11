@@ -9,10 +9,14 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     Rooms:"A comprehensive video calling application designed to enhance productivity for remote teams by integrating multiple communication tools into a single platform. The application supports voice chat, video calls, real-time text chat, and screen sharing, providing seamless collaboration for team members across various locations.",
     RoomsGithub:"https://github.com/chitranshu1409/frintend-room",
     RoomsWebsite:"https://frintend-room.vercel.app/",
+
+
+    Refer: "A full stack 'Refer & Earn' website that allows users to refer others by simply entering their email addresses. The system then automatically sends a referral email to the provided addresses, making it easy and efficient for users to share and earn rewards.",
+    ReferGithub:"https://github.com/chitranshu1409/Accredian-frontend-task",
+    ReferWebsite:"https://accredian-frontend-task-sepia-nine.vercel.app/",
   }
 
  
-    
   return (
     <div className='projectBox'> 
         <img className='projectPhoto' src={projectPhoto} alt="Project display" /> 
