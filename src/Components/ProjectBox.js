@@ -13,7 +13,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
 
     LoanStore:"developed a responsive website for a loan-providing company LOAN STORE using Reactjs and Nodejs.",
     LoanGithub:"https://github.com/chitranshu1409/loan-frontend",
-    LoanWebsite:"https://portfolio-website-navy-zeta-78.vercel.app/",
+    LoanWebsite:"https://loan-frontend-taupe.vercel.app/",
   }
 
  
