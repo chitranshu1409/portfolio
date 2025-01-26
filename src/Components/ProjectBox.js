@@ -11,9 +11,9 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     RoomsWebsite:"https://room-frontend-latest.vercel.app/",
 
 
-    Refer: "A full stack 'Refer & Earn' website that allows users to refer others by simply entering their email addresses. The system then automatically sends a referral email to the provided addresses, making it easy and efficient for users to share and earn rewards.",
-    ReferGithub:"https://github.com/chitranshu1409/Accredian-frontend-task",
-    ReferWebsite:"https://accredian-frontend-task-sepia-nine.vercel.app/",
+    Refer: "developed a responsive website for a loan-providing company LOAN STORE using React.js and Node.js.,
+    ReferGithub:"https://github.com/chitranshu1409/loan-frontend",
+    ReferWebsite:"https://portfolio-website-navy-zeta-78.vercel.app/",
   }
 
  
