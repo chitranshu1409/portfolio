@@ -11,9 +11,9 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     RoomsWebsite:"https://room-frontend-latest.vercel.app/",
 
 
-    LoanStore:"developed a responsive website for a loan-providing company LOAN STORE using Reactjs and Nodejs.",
-    LoanGithub:"https://github.com/chitranshu1409/loan-frontend",
-    LoanWebsite:"https://loan-frontend-taupe.vercel.app/",
+    Refer:"developed a responsive website for a loan-providing company LOAN STORE using Reactjs and Nodejs.",
+    ReferGithub:"https://github.com/chitranshu1409/loan-frontend",
+    ReferWebsite:"https://loan-frontend-taupe.vercel.app/",
   }
 
  
